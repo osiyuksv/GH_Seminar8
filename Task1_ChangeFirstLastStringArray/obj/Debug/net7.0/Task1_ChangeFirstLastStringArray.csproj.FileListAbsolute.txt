@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\bin\Debug\net7.0\Task1_ChangeFirstLastStringArray.exe
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\bin\Debug\net7.0\Task1_ChangeFirstLastStringArray.deps.json
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\bin\Debug\net7.0\Task1_ChangeFirstLastStringArray.runtimeconfig.json
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\bin\Debug\net7.0\Task1_ChangeFirstLastStringArray.dll
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\bin\Debug\net7.0\Task1_ChangeFirstLastStringArray.pdb
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\obj\Debug\net7.0\Task1_ChangeFirstLastStringArray.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\obj\Debug\net7.0\Task1_ChangeFirstLastStringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\obj\Debug\net7.0\Task1_ChangeFirstLastStringArray.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\obj\Debug\net7.0\Task1_ChangeFirstLastStringArray.AssemblyInfo.cs
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\obj\Debug\net7.0\Task1_ChangeFirstLastStringArray.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\obj\Debug\net7.0\Task1_ChangeFirstLastStringArray.dll
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\obj\Debug\net7.0\refint\Task1_ChangeFirstLastStringArray.dll
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\obj\Debug\net7.0\Task1_ChangeFirstLastStringArray.pdb
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\obj\Debug\net7.0\Task1_ChangeFirstLastStringArray.genruntimeconfig.cache
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task1_ChangeFirstLastStringArray\obj\Debug\net7.0\ref\Task1_ChangeFirstLastStringArray.dll
