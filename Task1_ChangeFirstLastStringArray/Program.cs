@@ -47,6 +47,5 @@ int[,] matrix = FillMatrixRandomNunmbers();
 PrintMatrix(matrix);
 Console.WriteLine();
 
-ChangeFirstLastRows(matrix);
-PrintMatrix(matrix);
+PrintMatrix(ChangeFirstLastRows(matrix));
 Console.WriteLine();
