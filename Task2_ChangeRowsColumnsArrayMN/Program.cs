@@ -38,8 +38,6 @@ int[,] ChangeRowsColumns(int[,] matrix0)
         }
       }
   }
-  else Console.WriteLine("Невозможно поменять строки со столбцами местами, потому что их количество не совпадает");
-  
   return(matrix0);
 }
 
@@ -58,6 +56,13 @@ void PrintMatrix(int[,] matrix0)
 int[,] matrix = FillMatrixRandomNunmbers();
 PrintMatrix(matrix);
 Console.WriteLine();
+
+if (rows != columns) 
+{
+  Console.WriteLine("Невозможно поменять строки со столбцами местами, потому что их количество не совпадает");
+  return;
+}
+  
 
 PrintMatrix(ChangeRowsColumns(matrix));
 Console.WriteLine();
