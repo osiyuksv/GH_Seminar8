@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\bin\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.exe
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\bin\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.deps.json
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\bin\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.runtimeconfig.json
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\bin\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.dll
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\bin\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.pdb
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\obj\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\obj\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\obj\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\obj\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.AssemblyInfo.cs
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\obj\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\obj\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.dll
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\obj\Debug\net7.0\refint\Task2_ChangeRowsColumnsArrayMN.dll
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\obj\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.pdb
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\obj\Debug\net7.0\Task2_ChangeRowsColumnsArrayMN.genruntimeconfig.cache
+C:\Users\admin\Desktop\git\03 Programming\Seminar8\Task2_ChangeRowsColumnsArrayMN\obj\Debug\net7.0\ref\Task2_ChangeRowsColumnsArrayMN.dll
