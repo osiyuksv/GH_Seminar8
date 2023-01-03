@@ -42,7 +42,7 @@ void PrintChangeArray(int[,] matrix0)
       {
         for (int j = 0; j < matrix0.GetLength(1); j++)
         {
-          if(j != minIndexColumns) Console.Write(matrix0[i, j] + " ");
+          if(j != minIndexColumns) Console.Write(matrix0[i, j] + "\t");
         }
         Console.WriteLine();
       }
